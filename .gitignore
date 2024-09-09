@@ -85,6 +85,7 @@ Thumbs.db
 venv/
 ENV/
 env/
+cgad_env/
 env.bak/
 venv.bak/
 
