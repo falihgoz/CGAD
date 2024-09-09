@@ -18,7 +18,7 @@ The corresponding raw datasets should be placed in `./data`. the datasets can be
 python preprocess_data.py SWAT WADI MSL SMAP SMD
 ```
 
-You can download the processed data for the SMD dataset from [here](https://www.google.com/intl/en_au/drive/). After downloading, unzip the file and move all .npy files to the `./preprocessed_data/SMD` directory.
+You can download the processed data for the SMD dataset from [here](https://drive.google.com/file/d/15qAW47HIzJ3UWO8euAMxCvrqX2NgGuih/view?usp=sharing). After downloading, unzip the file and move all .npy files to the `./preprocessed_data/SMD` directory.
 
 # Run
 
