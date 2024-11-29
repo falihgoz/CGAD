@@ -1,4 +1,4 @@
-# Caugation
+# CGAD
 
 This repository provides implementation of CGAD (Causal Graph for Multivariate Time Series Anomaly Detection)
 
