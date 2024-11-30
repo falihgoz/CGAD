@@ -90,7 +90,7 @@ env.bak/
 venv.bak/
 
 # Folder
-data/*
+# data/*
 !data/.gitkeep
 checkpoints
 experiment_results
